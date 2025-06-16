@@ -16,7 +16,7 @@
         "next-action": "1480975ee8b7173cc8e449cdee4635dc740b9543",
         "next-router-state-tree": "%5B%22%22%2C%7B%22children%22%3A%5B%22__PAGE__%22%2C%7B%7D%2C%22%2F%22%2C%22refresh%22%5D%7D%2Cnull%2Cnull%2Ctrue%5D"
     };
-    const WALLET = "0x2e455c184aa62aac640e30d2c5193992b6b6dbf8";
+    const WALLET = "Your uranium generated address after signup in the miner page";
 
     const payloads = [
         {
